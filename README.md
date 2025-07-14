@@ -13,6 +13,7 @@ Job Satisfaction – Satisfaction level (1 = Low, 4 = High)
 OverTime – Whether the employee works overtime
 Years at Company – Tenure with the organization
 Education – Education level (scale of 1–5)
+
 ❓ Problem Statement
 Employee attrition is a critical concern in workforce management. High turnover rates lead to increased hiring costs, operational disruptions, and loss of valuable talent.
 
