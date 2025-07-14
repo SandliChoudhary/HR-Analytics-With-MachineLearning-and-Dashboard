@@ -1,6 +1,3 @@
-Based on your full project report (HR_PROJECT_REPORT (2).pdf), here is a *formal and structured GitHub README* that covers *dataset, problem statement, approach, tools, visualization, and machine learning*—exactly as presented in your report.
-
----
 
 # 🧠 Employee Attrition Risk Prediction
 
